@@ -1,5 +1,5 @@
 # Tensor-network-stabilizer-codes
-This was a course project of the course E2-210: Quantum Error-Correcting Codes.
+This was a course project of the course E2-210: Quantum Error-Correcting Codes. [Course website](https://ece.iisc.ac.in/~nkashyap/E2_210/)
 
 ## References
 [1] Farrelly, Terry, Tuckett, David K., and Thomas M. Stace. "Local tensor-network codes." ArXiv, (2021). [Link](https://iopscience.iop.org/article/10.1088/1367-2630/ac5e87)  
