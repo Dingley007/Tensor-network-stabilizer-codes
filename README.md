@@ -13,4 +13,3 @@ This was a course project of the course E2-210: Quantum Error-Correcting Codes.
 [5] S. Bravyi, M. Suchara, and A. Vargo. Ecient algorithms for maximum likelihood decoding in the surface code. Phys. Rev. A, 90:032326, 2014. [Link](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.90.032326)  
 
 [6] Ferris, Andrew J., and David Poulin. "Tensor Networks and Quantum Error Correction." ArXiv, (2013). [Link](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.113.030501)
-
