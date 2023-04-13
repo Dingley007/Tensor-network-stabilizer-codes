@@ -6,7 +6,7 @@ This was a course project of the course E2-210: Quantum Error-Correcting Codes.
 
 [2] Bridgeman, Jacob C., and Christopher T. Chubb. "Hand-waving and Interpretive Dance: An Introductory Course on Tensor Networks." ArXiv, (2016). [Link](https://iopscience.iop.org/article/10.1088/1751-8121/aa6dc3)  
 
-[3] Farrelly, Terry, Harris, Robert J., McMahon, Nathan A., and Thomas M. Stace. "Tensor-network codes." ArXiv, (2020). [Link](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.040507)  
+[3] Farrelly, Terry, Harris, Robert J., McMahon, Nathan A., and Thomas M. Stace. "Tensor-network codes." ArXiv, (2020). [Link](https://arxiv.org/abs/2009.10329)  
 
 [4] https://github.com/qecsim/TensorNetworkCodes.jl  
 
