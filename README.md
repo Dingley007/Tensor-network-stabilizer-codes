@@ -1,5 +1,5 @@
 # Tensor-network-stabilizer-codes
-This was a course project of the course E2-210: Quantum Error-Correcting Codes. [Course website](https://ece.iisc.ac.in/~nkashyap/E2_210/)
+This was a course project of the course _E2-210: Quantum Error-Correcting Codes_. [Course website](https://ece.iisc.ac.in/~nkashyap/E2_210/)
 
 The file `Example.ipynb` contains the code for the example shown in the report.
 
