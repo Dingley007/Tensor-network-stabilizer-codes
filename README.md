@@ -16,7 +16,7 @@ This was a course project of the course _E2-210: Quantum Error-Correcting Codes_
 
 ## Julia module
 
-    [https://github.com/qecsim/TensorNetworkCodes.jl]
+    https://github.com/qecsim/TensorNetworkCodes.jl
 
 ## Team Members
 >> Harshkumar Oza, Q.Tech, IISc Bengaluru
